@@ -2,7 +2,10 @@ Create new file on your directory:
 
 user
 	| \Your Username\
-		| echo_1.sh
+		| TODO
+			| echo
+				| echo_1.sh
+
 
 File echo_1.sh should filled with bash script code, which if executed will provide this output
 
