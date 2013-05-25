@@ -1,0 +1,9 @@
+Buat script dimana nanti:
+
+Script baca ada berapa paket yang terinstall di dalam sistem
+Jika paket lebih dari 1000, maka kasih tau ke user:
+
+    "Jumlah paket yang ter-install sangat banyak"
+    "Disarankan untuk membuang paket-paket yang tidak perlu"
+
+Save -> Commit -> Push -> Create Pull Request
