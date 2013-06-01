@@ -1,0 +1,10 @@
+Buat satu skrip sederhana dengan looping:
+
+- Kalo loop masih ada, tanyain mau ngapain.
+- Kalo loop nya udah nggak ada, exit.
+
+- Kasih pilihan:
+    1. Terserah
+    2. Terserah
+    3. Terserah
+    4. Exit
