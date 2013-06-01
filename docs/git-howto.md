@@ -5,7 +5,7 @@
 ## About The Architecture
 Repository HSS dibagi menjadi dua jenis:
 
-- Repo milik server yaitu [t19er/hss](https://github.com/t193r/hss)
+- Repo milik server yaitu [t193r/hss](https://github.com/t193r/hss)
 - Repo pribadi milik partisipan yaitu *username*/hss
 
 Prinsip kerjanya adalah, user mengerjakan tugasnya di repo pribadinya, setelah semua selesai, user mengupdate repository-nya kemudian membuat pull request untuk server. Setelah semua user membuat pull request, server akan membuat keputusan untuk menerima atau menolak pull request tadi. Jika tugas ini sudah selesai, user <b>HARUS</b> mensinkronisasikan reponya dengan repo milik server (merge dari server). Setelah merging, user baru bisa mengerjakan tugasnya kembali. Ini penting untuk menghindari konflik.
