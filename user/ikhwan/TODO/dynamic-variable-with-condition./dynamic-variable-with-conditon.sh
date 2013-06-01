@@ -13,3 +13,5 @@ if [[ $packet -gt 1000 ]]; then
 	echo "jumlah packet anda ( $packet ) lebih dari 1000 :D "
 	
 fi
+
+
